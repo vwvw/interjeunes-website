@@ -1,0 +1,32 @@
+  <section class=" page-section" style="margin-top: -100px;">
+
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto text-center">
+              <!-- Project Details Go Here -->
+              <h1 class="text-uppercase">{{ project.title }}</h1>
+	      <br>
+              <p class="item-intro text-muted">{{ project.subtitle }}</p>
+	      <br>
+              <img
+                class="img-fluid d-block mx-auto"
+                src="{{ project.image }}"
+                alt="{{ project.alt }}"
+              />
+              <div class="row">
+                <div class="col-lg-8 mx-auto">{{ project.map }}</div>
+                <div class="col-lg-4 mx-auto">
+                  <h4>Adresse</h4>
+                  <p>{{ project.address | markdownify }}</p>
+                </div>
+              </div>
+              <p>{{ project.content }}</p>
+
+              {% if project.images %}
+              {% include carousel.html height="50" unit="%" duration="7" %}
+              <p>{{ project.images_desc }} </p>
+              {% endif %}
+            </div>
+        </div>
+      </div>
+      </section>

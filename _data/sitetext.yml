@@ -11,68 +11,135 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Un réseau au service de sa génération
+    text: Interjeunes
+    button: Nos groupes
+    buttonlink: "#portfolio"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+    title: "A propos"
+    text: ""
+    section: a-propos
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "[Notre histoire](/notre-histoire)"
+        desc: "Interjeunes, ça dure ça dure !"
+        icon: fas fa-history #find more at https://fontawesome.com/icons
+      - title: "[Ce que nous croyons](/ce-que-nous-croyons)"
+        desc: "Tu veux en savoir plus sur les valeurs d'Interjeunes ? C'est par là !"
+        icon: fas fa-book
+      - title: "[Nous soutenir](/nous-soutenir)"
+        desc: "Vos dons serviront à la vie hebdomadaire des groupes de jeunes ainsi qu’à divers activiés spéciales qu’ils peuvent organiser (camp, évangélisation, etc…)."
+        icon: fas fa-gift
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Nos groupes"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Fermer"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "Notre histoire"
+    text: "Au fils des années, Interjeunes devient ainsi un réseau de groupes, eux-mêmes sous l’égide de l’association Interjeunes et indépendants dans leur manière de fonctionner. Ils observent cependant les mêmes statuts. 
+Le réseau et ses entités locales ont la spécificité d’être interconfessionnels. Ils ne désirent pas se prétendre d’un mouvement ou d’une catégorisation du Corps de Christ. Dès lors, chaque groupe travaille en collaboration avec les différentes églises et oeuvres de sa région. 
+Actuellement, plus de 350 jeunes participent plus ou moins activement aux événements des cinq groupes Interjeunes (celui de La Côte ayant cessé de fonctionner en 2002, Vallorbe à l’été 2018) dans une moyenne d’âge de 14 à 25 ans."
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+      - title: "Les débuts"
+        year: 1966 - 1967
+        desc: "Plusieurs chrétiens de la région d’Yverdon-les-Bains se réunissent régulièrement pour des moments de partages. Un jour, ils ont une idée : mettre sur pied un grand groupe de jeunes, inédit à l’époque, pour avoir une plus grande visibilité et un plus grand impact sur leur génération."
+
+      - title:
+        year : 1968
+        desc:  "Plusieurs petits groupes de la ville se rallient au projet et fusionnent pour donner naissance à Interjeunes. Ce groupe se veut interconfessionnel, dynamique et différent des groupes de jeunes traditionnels."
+      - title: "Yverdon"
+        year : 1969 - 1978
+        desc: Le groupe vit une période motivante, où le noyau de base est très tourné sur l’extérieur, notamment en organisant des concerts et des week-ends d’activités. L’un des points fort de cette décennie est les soirées pour les personnes seules lors des fêtes de fin d’année,organisées avec les communautés évangéliques de la ville, l’Armée du salut, l’église Protestante et les scouts."
+      - title: "Explosion"
+        year : 1979 - 1986 
+        desc: Toujours en recherche de toucher la jeunesse, Interjeunes lance les fameux camps de ski qui vont tout de suite connaître un grand succès ! Également un ‘coffee bar’ sera ouvert pendant plusieurs années ; voilà un beau projet pour faire des contacts. Cette période est aussi un temps de remise en question, les responsables se font vieux, les idées manquent. Quelle est donc le plan de Dieu pour le futur d’Interjeunes ?"
+      - title: "Déménagement"
+        year : 1986- 1992
+        desc: Une nouvelle équipe avec une vision renouvelée se lève dans ce que Dieu lui inspire. Il est maintenant le temps de changer de local et trouver une salle pouvant accueillir une centaine de jeunes. Le groupe se retrouve alors à la salle de l’Étoile et la croissance du groupe ne se fait plus attendre ; rapidement l’effectif passe de 25 personnes à plus de 100. Les jeunes viennent de tout le canton, les responsables décident alors de créer des groupes locaux avec le même but dans une vision de multiplication. Cela amène Interjeunes dans un nouveau fonctionnement. Interjeunes devient Interjeunes Yverdon. Et le nom ‘Interjeunes’ représentera l’association en tant que réseau."
+      - title:  "Implantation du groupe Interjeunes Vallorbe"
+        year : 1992
+      - title: "Implantation du groupe Interjeunes Echallens"
+        year : 1993 
+      - title: "Implantation du groupe Interjeunes La Côte à St-Prex"
+        year : 1995 
+      - title: "Implantation du groupe Interjeunes Chablais à Aigle"
+        year : 1999 
+      - title: "Implantation du groupe Interjeunes La Vallée-de-Joux"
+        year : 2002 
+      - title: "Implantation du groupe Interjeunes Pied-du-Jura à Cossonay"
+        year : 2006 
+    end: "<br>Rejoins <br> Nous!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
+    section: qui-sommes-nous
+    title: "Qui sommes nous ?"
+    text: "“Ecoute, Israël, le Seigneur notre Dieu est l’unique Seigneur ; Tu aimeras le Seigneur ton Dieu de tout ton coeur, de toute ton âme, de toute ta pensée et de toute ta force. Tu aimeras ton prochain comme toi-même. Il n’y a pas d’autres commandements plus grands que ceux-là.” 
+    — Marc 12:30"
+    content: 
+      - title: "Notre vision"
+        body: "Au travers de ses groupes locaux, Interjeunes désire faire route avec les jeunes afin de développer et vivre :
+
+        - La connaissance de Dieu
+
+        - L’amitié
+
+        - L’épanouissement de leur identité
+
+        - La découverte de leur destinée
+
+        - Le partage de la foi"
+
+
+      - title: "Nos valeurs"
+        body: "- La louange et l’adoration
+        
+        - L’évangélisation
+        
+        - L’amitié
+        
+        - Les dons de l’Esprit
+        
+        - La créativité
+        
+        - La croissance
+        
+        - La collaboration avec les églises
+        
+        - Les jeunes
+        
+        - Le service
+        
+        - La mission
+        
+        - La libéralité"
+
+
+      - title: "LE BUT PRINCIPAL DU RÉSEAU INTERJEUNES S’ARTICULE AUTOUR DE DEUX POINTS"
+        body: "- Réunir les groupes de jeunes de chaque région pour les mettre en action.
+
+         - Offrir une aide structurelle, relationnelle et financière aux entités locales dans le besoin, ainsi qu’à toute personne désirant créer un nouveau groupe Interjeunes dans sa région."
+
+
+      - title:  "LES ACTIVITÉS PROPOSÉES PAR INTERJEUNES SONT LES SUIVANTES"
+        body: "- Camps de ski
+         
+         - Week-ends
+         
+         - Diverses formations
+         
+         - Tournois sportifs
+         
+         - Projets sociaux et culturels
+         
+         - Plénières réunissant les groupes locaux
+         
+         - Etc.
+      "
 
   clients:
     section: clients
@@ -130,33 +197,29 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Laissez nous un message!"
+    text: ""
     section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
+    name: "Prénom & Nom*"
+    name-validation: "Merci d'entrer votre nom."
     email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
+    email-validation: "Merci d'entrer votre email."
+    phone: "Téléphone"
+    phone-validation: "Merci de laisser votre numéro de téléphone."
     message: "Message*"
-    message-validation: "Please enter a message."
+    message-validation: "Inscriver votre message."
     subject: "Contact Form Submission"
-    submit: "Send Message"
+    submit: "Envoyer le message"
 
   footer:
-    legal: "Privacy Policy"
+    legal: 
+        text: "made with ️❤️ and God's grace"
+        link: https://github.com/raviriley/agency-jekyll-theme
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
+      - url: https://www.facebook.com/Interjeunes-81647152591
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
       - url: https://github.com/raviriley/agency-jekyll-theme
         icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -165,158 +228,3 @@ en-GB:
   <<: *DEFAULT_EN
 en-AU:
   <<: *DEFAULT_EN
-
-# Spanish
-# -------
-es: &DEFAULT_ES
-  header:
-    title: ¡Bienvenido a nuestro Estudio!
-    text: Es un placer conocerle
-    button: Ver más
-    buttonlink: "#servicios"
-
-  services:
-    title: "Servicios"
-    text: "Lorem ipsum"
-    section: servicios
-    list:
-      - title: "Comercio Electrónico"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Diseño Responsivo"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
-        icon: fab fa-markdown
-
-  portfolio:
-    title: "Portafolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portafolio
-    closebutton: "Cerrar Proyecto"
-
-  timeline:
-    title: "Cronología"
-    text: "Lorem ipsum timeline"
-    section: cronologia
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Nuestro Humilde Comienzo"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "Una Agencia nace"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "La plantilla Jekyll es creada"
-        year: "2019"
-        desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Título"
-        year: "2009-2011"
-        desc: "Su descripción aquí, **Markdown** es soportado completamente."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "¡Se parte <br> de Nuestra <br> Historia!"
-
-  about:
-    title: "Sobre nosotros"
-    text: "nuestra historia"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: nosotros
-
-  clients:
-    section: clientes
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-
-  team:
-    title: "NUESTRO INCREÍBLE EQUIPO"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: equipo
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-
-  contact:
-    title: "Contáctenos"
-    text: "Lorem ipsum or call 123456789"
-    section: contacto
-    name: "Nombre*"
-    name-validation: "Por favor ingrese su nombre."
-    email: "Correo Electrónico*"
-    email-validation: "Por favor ingrese su correo electrónico."
-    phone: "Número Telefónico*"
-    phone-validation: "Por favor ingrese su número telefónico."
-    message: "Mensaje*"
-    message-validation: "Por favor escriba un mensaje."
-    subject: "Envío del formulario de contacto"
-    submit: "Enviar Mensaje"
-
-  footer:
-    legal: "Política de Privacidad"
-    social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
