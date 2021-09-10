@@ -1,5 +1,6 @@
 ---
 title: Interjeunes Yverdon
+link: yverdon
 subtitle: Viens nous retrouver pour des soirées de folies !
 map: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d682.9175289165588!2d6.632495729229771!3d46.7911042986962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478dc581ab0e01a5%3A0xfacf10ff870a5491!2sRue%20des%20Pr%C3%A9s-du-Lac%2030%2C%201400%20Yverdon-les-Bains!5e0!3m2!1sen!2sch!4v1629984594495!5m2!1sen!2sch" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 address: "{:.list-inline}
@@ -18,7 +19,7 @@ images_desc: "Quelques photos du groupe"
 
 caption:
   subtitle: Vendredi soir 20h
-  thumbnail: https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+a81414(6.6325,46.7911043)/6.6325,46.7911,8.93,0/300x200@2x?access_token=pk.eyJ1Ijoidnd2dyIsImEiOiJja284dnNrNzYxamduMnhteTlqajV5Z2cxIn0.Q3rPhwNzrpLEN6oQcwi17A
+  thumbnail: https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+acd103(6.6325,46.7911043)/6.6325,46.7911,9,0/300x200@2x?access_token=pk.eyJ1Ijoidnd2dyIsImEiOiJja284dnNrNzYxamduMnhteTlqajV5Z2cxIn0.Q3rPhwNzrpLEN6oQcwi17A
 ---
 Tous les vendredis soirs à 20h
 ### Notre groupe
