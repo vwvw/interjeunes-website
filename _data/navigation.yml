@@ -15,8 +15,8 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "A propos"
       section: a-propos
-    - title: "Notre histoire"
-      url: /notre-histoire
+    - title: "Qui sommes nous"
+      section: qui-sommes-nous
     - title: "Explosion Camp"
       url: /explosion-camp
     - title: "Contact"

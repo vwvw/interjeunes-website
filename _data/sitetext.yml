@@ -141,24 +141,6 @@ Actuellement, plus de 350 jeunes participent plus ou moins activement aux évén
          - Etc.
       "
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-
   team:
     title: "OUR AMAZING TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."
@@ -214,11 +196,11 @@ Actuellement, plus de 350 jeunes participent plus ou moins activement aux évén
   footer:
     legal: 
         text: "made with ️❤️ and God's grace"
-        link: https://github.com/raviriley/agency-jekyll-theme
+        link: https://github.com/vwvw/interjeunes-website
     social:
       - url: https://www.facebook.com/Interjeunes-81647152591
         icon: "fab fa-facebook-f"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/vwvw/interjeunes-website
         icon: "fab fa-github"
 en-US:
   <<: *DEFAULT_EN
