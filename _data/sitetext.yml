@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "Tu veux en savoir plus sur les valeurs d'Interjeunes ? C'est par là !"
         icon: fas fa-book
       - title: "[Nous soutenir](/nous-soutenir)"
-        desc: "Vos dons serviront à la vie hebdomadaire des groupes de jeunes ainsi qu’à divers activiés spéciales qu’ils peuvent organiser (camp, évangélisation, etc…)."
+        desc: "Vos dons serviront à la vie hebdomadaire des groupes de jeunes ainsi qu’à divers activités spéciales qu’ils peuvent organiser (camp, évangélisation, etc…)."
         icon: fas fa-gift
 
   portfolio:
