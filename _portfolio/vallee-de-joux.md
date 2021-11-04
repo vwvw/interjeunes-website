@@ -20,10 +20,10 @@ images:
 images_desc: "Quelques photos du groupe"
 
 caption:
-  subtitle: Vendredi soir 20h
+  subtitle: Vendredi soir 19h45
   thumbnail: https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+acd103(6.214091,46.5961892)/6.214091,46.5961892,9,0/300x200@2x?access_token=pk.eyJ1Ijoidnd2dyIsImEiOiJja284dnNrNzYxamduMnhteTlqajV5Z2cxIn0.Q3rPhwNzrpLEN6oQcwi17A
 ---
-Tous les vendredis soirs à 20h
+Tous les vendredis soirs à 19h45
 ### Notre groupe
 
 Nous sommes un groupe de jeunes chrétiens se réunissant pour vivre ensemble notre foi en Jésus. Les soirées se déroulent les **vendredis soirs** et parfois les **samedis soirs** de 20h à 22h et nous y vivons des temps

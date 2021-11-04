@@ -13,7 +13,7 @@ déjà plusieurs décennies que les différents groupes Interjeunes se retrouven
 
 Explosion Camp se déroule chaque année entre le **26 décembre et le 2 janvier** de l'année suivante. Chaque année, nous remplissons 2 chalets avec les différents groupes Interjeunes. 
 
-L'Edition 2019-2020 est déjà programmée et tu peux t'inscrire grâce au Google Forms si dessous. Le prix du camp est de 300CHF si tu t'inscris avant le 1er décembre. L'abonnement de ski n'est pas inclus.
+L'Edition 2021-2022 est déjà programmée et tu pourra t'inscrire dès e 5.11 grâce au Google Forms si dessous. Le prix du camp est de 300CHF si tu t'inscris et paies avant le 1er décembre. L'abonnement de ski n'est pas inclus.
 
 {: style="text-align: center;"}
 Si tu as des questions par rapport à ce qu'est Explosion Camp ou si tu as un problème avec l'inscription, n'hésite pas à nous contacter à [info@interjeunes.net](mailto:info@interjeunes.net) !
@@ -23,4 +23,3 @@ On se réjouit de te voir le 26 décembre !
 <p align="center">
 <iframe width="50%" height="315" src="https://www.youtube.com/embed/o18RmRXpx-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen marginheight="0" marginwidth="0"></iframe>
 </p>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf97Fi-bC15OUhdCVXVwex4l8q0ZCJpk4jyexZaGD43eKC6cg/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
