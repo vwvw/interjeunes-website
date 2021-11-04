@@ -15,6 +15,8 @@ Explosion Camp se déroule chaque année entre le **26 décembre et le 2 janvier
 
 L'Edition 2021-2022 est déjà programmée et tu pourra t'inscrire dès e 5.11 grâce au Google Forms si dessous. Le prix du camp est de 300CHF si tu t'inscris et paies avant le 1er décembre. L'abonnement de ski n'est pas inclus.
 
+Au vu de la situation partiuclière du moment, les informations concernant les mesures COVID sont dans le formulaire d'inscriptions!
+
 {: style="text-align: center;"}
 Si tu as des questions par rapport à ce qu'est Explosion Camp ou si tu as un problème avec l'inscription, n'hésite pas à nous contacter à [info@interjeunes.net](mailto:info@interjeunes.net) !
 
