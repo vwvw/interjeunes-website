@@ -11,7 +11,7 @@ address: "{:.list-inline}
 
 - 1348 Le Brassus
 
-Contact : interjeunes.vallee@gmail.com"
+- Contact : interjeunes.vallee@gmail.com"
 
 images:
   #- image: /assets/img/yverdon/1.jpg
@@ -26,7 +26,7 @@ caption:
 Tous les vendredis soirs à 19h45
 ### Notre groupe
 
-Nous sommes un groupe de jeunes chrétiens se réunissant pour vivre ensemble notre foi en Jésus. Les soirées se déroulent les **vendredis soirs** et parfois les **samedis soirs** de 20h à 22h et nous y vivons des temps
+Nous sommes un groupe de jeunes chrétiens se réunissant pour vivre ensemble notre foi en Jésus. Les soirées se déroulent les vendredis soirs de 19h45 à 22h et nous y vivons des temps
 
   -  d’enseignements
   -  de louange

@@ -9,7 +9,9 @@ address: "{:.list-inline}
 
 - Rue des Prés-du-Lac 30
 
-- 1400 Yverdon-Les-Bains"
+- 1400 Yverdon-Les-Bains
+
+- (lieu pouvant changer)"
 
 images:
   #- image: /assets/img/yverdon/1.jpg
@@ -18,23 +20,25 @@ images:
 images_desc: "Quelques photos du groupe"
 
 caption:
-  subtitle: Vendredi soir 20h
+  subtitle: Vendredi ou samedi soir 19h30
   thumbnail: https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+acd103(6.6325,46.7911043)/6.6325,46.7911,9,0/300x200@2x?access_token=pk.eyJ1Ijoidnd2dyIsImEiOiJja284dnNrNzYxamduMnhteTlqajV5Z2cxIn0.Q3rPhwNzrpLEN6oQcwi17A
 ---
-Tous les vendredis soirs à 20h
+Le vendredi ou samedi soir à 19h30, toutes les 6 semaines environ
+
 ### Notre groupe
 
-Nous sommes un groupe de jeunes chrétiens se réunissant pour vivre ensemble notre foi en Jésus. Les soirées se déroulent les vendredis et nous y vivons des temps
+Nous sommes une plateforme réunissant plusieurs groupes de jeunes chrétiens d’Yverdon et de la région.
 
-  -  d’enseignements
-  -  de louange
-  -  de prière
-  -  d’amitié, de partage
-  -  d’évangélisation
+Notre vision&nbsp;: «&nbsp;Interjeunes Yverdon (IJY) est une plateforme permettant aux jeunes d’Yverdon et de la région de grandir dans l’unité qui découle de l’adoration, cela au travers de soirées organisées et de projets mis en place.
+IJY existe en collaboration avec les groupes de jeunes déjà existants et du réseau Interjeunes. L’unité entre les leaders des groupes de jeunes nous tient aussi à cœur.&nbsp;» 
 
-Nous sommes rattachés à l’Église de l’Escale à Yverdon-les-Bains pour ensemble faire avancer le royaume de Dieu.
-D’autre part, nous faisons partie du réseau Interjeunes qui regroupe d’autres groupes se réunissant dans d’autres villes du canton de Vaud. Cette connexion permet de mener des projets communs, tel que l’organisation de tournois de volley, de plénières et le traditionnel camp de ski.
-Nous faisons également partie du réseau de Résistance réunissant les cinq groupes de jeunes d’Yverdon et de Ste Croix.
+On se réunit à peu près toute les six semaines le vendredi ou le samedi à 19h30 pour les soirées Oxygènes afin de pouvoir louer Dieu ensemble et afin de pouvoir se connecter entre différents groupes de jeunes de la région&nbsp;!
+
+Le lieu peut changer donc pense à regarder notre page Instagram pour avoir les dates et le lieu à jour ainsi que pour avoir une idée des événements pour la jeunesse chrétienne de la région. Nous avons également différents projets tel que l’organisation de soirées à thème Hydrogène, l’implication dans le camp Explosion, la participation à des soirées organisées dans la région…
+
+Si tu as des questions, n’hésite pas à nous contacter&nbsp;: 
+- Instagram&nbsp;: [@interjeunes.yverdon](https://www.instagram.com/interjeunes.yverdon/)
+- Mail&nbsp;: [interjeunes.yverdon@gmail.com](mailto:interjeunes.yverdon@gmail.com)
 
 
 ### Intéressé par nos activités, mais pas dans la région d'Yverdon, jette un coup d'oeil à nos autres groupes !
