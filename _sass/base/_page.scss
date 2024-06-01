@@ -30,11 +30,6 @@ h6 {
     @include heading-font;
 }
 
-ul {
-    text-align: left;
-    display: inline-block;
-}
-
 .page-section {
     padding: 100px 0;
 
@@ -51,6 +46,11 @@ ul {
         margin-bottom: 75px;
         text-transform: none;
         @include serif-font;
+    }
+
+    ul {
+        text-align: left;
+        display: inline-block;
     }
 }
 
