@@ -1,7 +1,15 @@
 // Global styling for this template
+@font-face {
+    font-family: 'prompt';
+    src: url('/assets/font/Prompt-Regular.ttf');
+}
+@font-face {
+    font-family: 'prompt-italic';
+    src: url('/assets/font/Prompt-Italic.ttf');
+}
 body {
     overflow-x: hidden;
-    @include body-font;
+    font-family: 'prompt';
 }
 
 p {
@@ -27,7 +35,6 @@ h4,
 h5,
 h6 {
     font-weight: 700;
-    @include heading-font;
 }
 
 .page-section {
@@ -45,7 +52,6 @@ h6 {
         font-style: italic;
         margin-bottom: 75px;
         text-transform: none;
-        @include serif-font;
     }
 
     ul {
