@@ -19,9 +19,11 @@ images:
   #- image: /assets/img/yverdon/3.jpg
 images_desc: "Quelques photos du groupe"
 
+color: "a7cbd9"
+
 caption:
   subtitle: Vendredi soir 19h45
-  thumbnail: https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+acd103(6.214091,46.5961892)/6.214091,46.5961892,9,0/300x200@2x?access_token=pk.eyJ1Ijoidnd2dyIsImEiOiJja284dnNrNzYxamduMnhteTlqajV5Z2cxIn0.Q3rPhwNzrpLEN6oQcwi17A
+  thumbnail: https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+a7cbd9(6.214091,46.5961892)/6.214091,46.5961892,9,0/300x200@2x?access_token=pk.eyJ1Ijoidnd2dyIsImEiOiJja284dnNrNzYxamduMnhteTlqajV5Z2cxIn0.Q3rPhwNzrpLEN6oQcwi17A
 ---
 Tous les vendredis soirs à 19h45
 ### Notre groupe
