@@ -36,6 +36,10 @@ Nous sommes un groupe de jeunes chrétiens se réunissant pour vivre ensemble no
   -  d’amitié, de partage
   -  d’évangélisation
 
+### Réseaux sociaux
+
+Viens visiter notre page instagram: [@interjeunes_vdj](https://www.instagram.com/interjeunes_vdj/)
+
 ### Nous soutenir
 
 Numéro de compte 12-519283-3 et IBAN CH04 0900 0000 1251 9283 3 

@@ -54,13 +54,13 @@ Actuellement, plus de 350 jeunes participent plus ou moins activement aux évén
         desc:  "Plusieurs petits groupes de la ville se rallient au projet et fusionnent pour donner naissance à Interjeunes. Ce groupe se veut interconfessionnel, dynamique et différent des groupes de jeunes traditionnels."
       - title: "Yverdon"
         year : 1969 - 1978
-        desc: Le groupe vit une période motivante, où le noyau de base est très tourné sur l’extérieur, notamment en organisant des concerts et des week-ends d’activités. L’un des points fort de cette décennie est les soirées pour les personnes seules lors des fêtes de fin d’année,organisées avec les communautés évangéliques de la ville, l’Armée du salut, l’église Protestante et les scouts."
+        desc: "Le groupe vit une période motivante, où le noyau de base est très tourné sur l’extérieur, notamment en organisant des concerts et des week-ends d’activités. L’un des points fort de cette décennie est les soirées pour les personnes seules lors des fêtes de fin d’année,organisées avec les communautés évangéliques de la ville, l’Armée du salut, l’église Protestante et les scouts."
       - title: "Explosion"
         year : 1979 - 1986 
-        desc: Toujours en recherche de toucher la jeunesse, Interjeunes lance les fameux camps de ski qui vont tout de suite connaître un grand succès ! Également un ‘coffee bar’ sera ouvert pendant plusieurs années ; voilà un beau projet pour faire des contacts. Cette période est aussi un temps de remise en question, les responsables se font vieux, les idées manquent. Quelle est donc le plan de Dieu pour le futur d’Interjeunes ?"
+        desc: "Toujours en recherche de toucher la jeunesse, Interjeunes lance les fameux camps de ski qui vont tout de suite connaître un grand succès ! Également un ‘coffee bar’ sera ouvert pendant plusieurs années ; voilà un beau projet pour faire des contacts. Cette période est aussi un temps de remise en question, les responsables se font vieux, les idées manquent. Quelle est donc le plan de Dieu pour le futur d’Interjeunes ?"
       - title: "Déménagement"
         year : 1986- 1992
-        desc: Une nouvelle équipe avec une vision renouvelée se lève dans ce que Dieu lui inspire. Il est maintenant le temps de changer de local et trouver une salle pouvant accueillir une centaine de jeunes. Le groupe se retrouve alors à la salle de l’Étoile et la croissance du groupe ne se fait plus attendre ; rapidement l’effectif passe de 25 personnes à plus de 100. Les jeunes viennent de tout le canton, les responsables décident alors de créer des groupes locaux avec le même but dans une vision de multiplication. Cela amène Interjeunes dans un nouveau fonctionnement. Interjeunes devient Interjeunes Yverdon. Et le nom ‘Interjeunes’ représentera l’association en tant que réseau."
+        desc: "Une nouvelle équipe avec une vision renouvelée se lève dans ce que Dieu lui inspire. Il est maintenant le temps de changer de local et trouver une salle pouvant accueillir une centaine de jeunes. Le groupe se retrouve alors à la salle de l’Étoile et la croissance du groupe ne se fait plus attendre ; rapidement l’effectif passe de 25 personnes à plus de 100. Les jeunes viennent de tout le canton, les responsables décident alors de créer des groupes locaux avec le même but dans une vision de multiplication. Cela amène Interjeunes dans un nouveau fonctionnement. Interjeunes devient Interjeunes Yverdon. Et le nom ‘Interjeunes’ représentera l’association en tant que réseau."
       - title:  "Implantation du groupe Interjeunes Vallorbe"
         year : 1992
       - title: "Implantation du groupe Interjeunes Echallens"
@@ -73,6 +73,8 @@ Actuellement, plus de 350 jeunes participent plus ou moins activement aux évén
         year : 2002 
       - title: "Implantation du groupe Interjeunes Pied-du-Jura à Cossonay"
         year : 2006 
+      - title: "Implantation du groupe Interjeunes Lonay"
+        year : 2024
     end: "<br>Rejoins <br> Nous!"
 
   about:
