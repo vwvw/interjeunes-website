@@ -1,5 +1,5 @@
 ---
 layout: page
 ---
-{% assign project = site.portfolio[4] %}
+{% assign project = site.portfolio[2] %}
 {% include groups.html %}
