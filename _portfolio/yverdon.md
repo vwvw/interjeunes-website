@@ -2,7 +2,7 @@
 title: Interjeunes Yverdon
 link: yverdon
 subtitle: Viens nous retrouver pour des soirées de folies !
-dates: "Le vendredi ou samedi soir à 19h30, toutes les 6 semaines environ<br>(visite notre page [Instagram](https://www.instagram.com/interjeunes.yverdon/) pour les prochaines dates)"
+dates: "Le vendredi ou samedi soir à 19h30, toutes les 6 semaines environ<br>(visite notre page Instagram pour les prochaines dates)"
 map: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d682.9175289165588!2d6.632495729229771!3d46.7911042986962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478dc581ab0e01a5%3A0xfacf10ff870a5491!2sRue%20des%20Pr%C3%A9s-du-Lac%2030%2C%201400%20Yverdon-les-Bains!5e0!3m2!1sen!2sch!4v1629984594495!5m2!1sen!2sch" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 address: "{:.list-inline}
 

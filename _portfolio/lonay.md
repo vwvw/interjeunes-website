@@ -2,7 +2,7 @@
 title: Interjeunes Lonay
 link: lonay
 subtitle: Viens nous retrouver pour des soirées de folies !
-dates: "Les samedis soirs à 19h30, 3 fois par mois environ<br>(visite notre page [Instagram](https://www.instagram.com/interjeunes_lonay/) pour les prochaines dates)"
+dates: "Les samedis soirs à 19h30, 3 fois par mois environ<br>(visite notre page Instagram pour les prochaines dates)"
 map: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2745.31343670292!2d6.520702011954487!3d46.52169916214229!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478c3726ee8a6f5f%3A0x588f1421fe896a0b!2sEglise%20Evang%C3%A9lique%20de%20Lonay!5e0!3m2!1sfr!2sch!4v1736099088815!5m2!1sfr!2sch" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 address: "{:.list-inline}
 
