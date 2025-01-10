@@ -12,10 +12,9 @@ address: "{:.list-inline}
 - 1027 Lonay"
 
 images:
-  #- image: /assets/img/yverdon/1.jpg
-  #- image: /assets/img/yverdon/2.jpg
-  #- image: /assets/img/yverdon/3.jpg
-images_desc: "Quelques photos du groupe"
+  - image: /assets/img/lonay/1.jpg
+  - image: /assets/img/lonay/2.jpg
+images_desc: "Programme Janvier - Juin 2025"
 
 color: "ffa975"
 
@@ -23,7 +22,10 @@ caption:
   subtitle: Samedi soir 19h30
   thumbnail: https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+ffa975(6.520702,46.5216992)/6.520702,46.5216992,9,0/300x200@2x?access_token=pk.eyJ1Ijoidnd2dyIsImEiOiJja284dnNrNzYxamduMnhteTlqajV5Z2cxIn0.Q3rPhwNzrpLEN6oQcwi17A
 ---
-Les samedis soirs à 19h30, 3 fois par mois environ (visite notre page [Instagram](https://www.instagram.com/interjeunes_lonay/) pour les prochaines dates)
+Les samedis soirs à 19h30, 3 fois par mois environ
+
+(visite notre page [Instagram](https://www.instagram.com/interjeunes_lonay/) pour les prochaines dates)
+
 ### Notre groupe
 
 Nous sommes un groupe de jeunes chrétiens se réunissant pour vivre ensemble notre foi en Jésus. Les soirées se déroulent les samedis soir, environ 3 fois par mois et nous y vivons des temps
