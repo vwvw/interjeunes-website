@@ -7,12 +7,18 @@
               <h1 class="text-uppercase" style="color: #{{ project.color }} !important;">{{ project.title }}</h1>
 	      <br>
               <p class="item-intro text-muted">{{ project.subtitle }}</p>
-	      <br>
-              <img
+        <br>
+              {% if project.images %}
+              {% include carousel.html height="50" unit="%" duration="7" %}
+              <p>{{ project.images_desc }} </p>
+              {% endif %}
+              <!-- <img
                 class="img-fluid d-block mx-auto"
                 src="{{ project.image }}"
                 alt="{{ project.alt }}"
-              />
+              /> -->
+              <h3 id="lieu-et-dates">Lieu et dates</h3>
+              <p>{{ project.dates }}</p>
               <div class="row">
                 <div class="col-lg-8 mx-auto">{{ project.map }}</div>
                 <div class="col-lg-4 mx-auto">
@@ -21,11 +27,6 @@
                 </div>
               </div>
               <p>{{ project.content }}</p>
-
-              {% if project.images %}
-              {% include carousel.html height="50" unit="%" duration="7" %}
-              <p>{{ project.images_desc }} </p>
-              {% endif %}
             </div>
         </div>
       </div>
