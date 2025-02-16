@@ -62,6 +62,30 @@ h6 {
         text-align: left;
         display: inline-block;
     }
+
+    .video-container {
+        position: relative;
+        width: 100%;
+        padding-bottom: 56.25%;
+    }
+
+    @media (min-width: 992px) {
+        .video-container {
+            position: relative;
+            width: 75%;
+            padding-bottom: 42.19%;
+            transform: translateX(16.7%);
+        }
+    }
+
+    .video {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
 }
 
 @media (min-width: 768px) {
