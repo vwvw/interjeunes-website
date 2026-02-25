@@ -31,6 +31,9 @@ Nous sommes un groupe de jeunes chrétiens se réunissant pour vivre ensemble no
   -  d’amitié, de partage
   -  d’évangélisation
 
+### Réseaux sociaux
+
+Viens visiter notre page instagram: [@interjeunes.chablais](https://www.instagram.com/interjeunes.chablais/)
 
 
 ### Intéressé par nos activités, mais pas dans la région du Chablais, jette un coup d'oeil à nos autres groupes !

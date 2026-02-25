@@ -33,4 +33,8 @@ Nous sommes un groupe de jeunes chrétiens se réunissant pour vivre ensemble no
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j5PWWIopO58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Réseaux sociaux
+
+Viens visiter notre page instagram: [@interjeunes_echallens](https://www.instagram.com/interjeunes_echallens/)
+
 ### Intéressé par nos activités, mais pas dans la région d'Echallens, jette un coup d'oeil à nos autres groupes !

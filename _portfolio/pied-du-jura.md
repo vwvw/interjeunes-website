@@ -31,5 +31,8 @@ Nous sommes un groupe de jeunes chrétiens se réunissant pour vivre ensemble no
   -  d’amitié, de partage
   -  d’évangélisation
 
+### Réseaux sociaux
+
+Viens visiter notre page instagram: [@interjeunespdj](https://www.instagram.com/interjeunespdj/)
 
 ### Intéressé par nos activités, mais pas dans la région de Cossonay, jette un coup d'oeil à nos autres groupes !
